@@ -1,0 +1,97 @@
+@media(max-width:430px){
+
+    body{ margin: 0%;
+          padding: 0%;
+          
+       
+    }
+
+    .box1{ border: px solid black;
+        height: 90px;
+       
+    }
+
+    #firstimg{ width:200px;
+               margin-left:25px;
+               margin-top: 25px;
+    }
+
+    #service{   margin-left: 300px;
+                margin-top: -34px ;
+                font-size: 10px;
+                font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    #contact{  margin-left: 380px;
+               margin-top: -13px ;
+               font-size: 10px;
+               font-family:Verdana, Geneva, Tahoma, sans-serif;
+              
+}  
+
+     #course{   margin-left: 457px;
+                margin-top: -13px ;
+                font-size: 10px;
+                font-family:Verdana, Geneva, Tahoma, sans-serif;
+            
+}
+
+      #course2{  margin-left: 510px;
+                 margin-top: -12.5px ;
+                 font-size: 10px;
+                 font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+       
+       #rocketpic{ 
+                    height: 300px;
+                    width: 599px;
+            
+}
+
+
+
+#secondbox{ position: relative;
+    border: 1px solid black;
+    height: 297px;
+    width: 595px;
+    margin-top: -305px;
+    background-color:rgba(0, 0, 0, 0.5);
+   
+}
+
+#supreme{margin-left:25px;
+         margin-top:70px;
+         font-size: 30px;
+         color: white;
+         font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+ 
+}
+
+#main{ margin-left:25px;
+       margin-top:10px;
+       font-size: 30px;
+       color: white;
+       font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#intro{ margin-left:25px;
+        margin-top:20px;
+        font-size:10px;
+        color: white;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+
+
+}
+
+
+
+
+
+
+
+
+}
